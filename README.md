@@ -41,7 +41,14 @@ The analysis is presented through **interactive Power BI dashboards** for clear 
 ## 🛠️ Tools & Technologies Used
 - **Power BI** – Data modeling, DAX measures, interactive dashboards  
 - **Excel** – Data cleaning and preprocessing  
-- **Data Analysis Techniques** – Aggregation, comparison, trend analysis  
+- **Data Analysis Techniques** – Aggregation, comparison, trend analysis
+
+- <img width="1897" height="1076" alt="Screenshot 2026-02-04 225556" src="https://github.com/user-attachments/assets/5be29d54-d06c-4216-94ca-cf9759bec83d" />
+<img width="1922" height="1081" alt="Screenshot 2026-02-04 225644" src="https://github.com/user-attachments/assets/97586e63-f298-4b0c-b4f1-b3956b5900a6" />
+<img width="1916" height="1078" alt="Screenshot 2026-02-04 225712" src="https://github.com/user-attachments/assets/28a7fa07-9406-4db2-be52-7fb860a9aaec" />
+<img width="1919" height="1087" alt="Screenshot 2026-02-04 225700" src="https://github.com/user-attachments/assets/44fa06c0-f46d-4cfd-9bfb-5eef641c4bf7" />
+<img width="1928" height="1084" alt="Screenshot 2026-02-04 225622" src="https://github.com/user-attachments/assets/939e1232-d42f-4904-aec4-14586a81fa46" />
+
 
 ---
 
